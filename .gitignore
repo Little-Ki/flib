@@ -1,5 +1,7 @@
 *.o
 *.obj
 *.exe
+*.pdb
+*.ilk
 build/
 .vscode/
